@@ -31,7 +31,7 @@ public class D {
 
     public void MD4(){
 
-        System.out.println("O nome do método é: MD2");
+        System.out.println("O nome do método é: MD4");
     }
 
     public void MD3(){
