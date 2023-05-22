@@ -29,4 +29,9 @@ public class A {
 
         System.out.println("O nome do método é: MA2");
     }
+
+    public void MA3(){
+
+        System.out.println("Alteração da classe A partir do clone");
+    }
 }
