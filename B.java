@@ -30,4 +30,9 @@ public class B {
         System.out.println("O nome do método é: MB2");
     }
 
+    public void MB3(){
+
+        System.out.println("O nome do método é: MB3");
+    }
+
 }
