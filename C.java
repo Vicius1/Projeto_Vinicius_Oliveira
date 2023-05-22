@@ -29,6 +29,4 @@ public class C {
 
         System.out.println("O nome do método é: MC2");
     }
-
-
 }
