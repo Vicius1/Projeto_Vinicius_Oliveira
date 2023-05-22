@@ -7,7 +7,6 @@ public class C {
 
         this.C1 = 3;
         this.C2 = 6;
-
     }
 
     public int getC1(){
